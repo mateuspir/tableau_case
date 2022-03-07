@@ -2,6 +2,7 @@
 
 Database: PostgreSQL 14.2
 Database schema:
+
  ![alt text](https://github.com/mateuspir/tableau_case/blob/master/assets/postgresDB_schema.png)
  
 Artificial data generation (using Python):
@@ -11,6 +12,7 @@ Please check the following scripts:
  	database.py
 
 Tableau Prep Builder (loading and adding features):
+ 
  ![alt text](https://github.com/mateuspir/tableau_case/blob/master/assets/tableau_prep_builder_flow.png)
  
 Please check the following scripts:
@@ -26,4 +28,5 @@ Temporary output (.hyper file) (no Tableau Server to store the view):
 
 Tableau Desktop (basic data visualization):
  	dashboard.pptx
+  
   ![alt text](https://github.com/mateuspir/tableau_case/blob/master/dashboard.png)
